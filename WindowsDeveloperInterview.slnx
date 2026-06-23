@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WindowsDeveloperInterview.Tests/WindowsDeveloperInterview.Tests.csproj" />
+  <Project Path="WindowsDeveloperInterview/WindowsDeveloperInterview.csproj" />
+</Solution>
